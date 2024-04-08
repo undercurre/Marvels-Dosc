@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,Q as p}from"./chunks/framework.f6611c15.js";const F=JSON.parse('{"title":"快速开始","description":"","frontmatter":{},"headers":[],"relativePath":"guild/start.md","filePath":"guild/start.md"}'),l={name:"guild/start.md"},o=p("",7),t=[o];function e(c,r,E,y,i,d){return a(),n("div",null,t)}const u=s(l,[["render",e]]);export{F as __pageData,u as default};
